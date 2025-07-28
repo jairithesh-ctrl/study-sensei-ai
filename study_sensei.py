@@ -103,4 +103,3 @@ if st.checkbox("📊 Show My Study History"):
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ ")
